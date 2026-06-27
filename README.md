@@ -1,10 +1,10 @@
-**Smart Parking Management System**
+# Smart Parking Management System
 
 A web-based parking system built with Python & Flask that automates slot allocation, tracks vehicle entry/exit, and generates bills automaticall
 
 **Live Demo** https://smart-parking-management-system-bhn6.onrender.com
 
-**Features**
+## Features
 
  · Auto slot allocation using Min Heap — always assigns the nearest available slot in O(log n)
 
@@ -14,7 +14,7 @@ A web-based parking system built with Python & Flask that automates slot allocat
 
  · Real-time parking status view
 
- **Screenshorts**
+ ## Screenshorts
  
 ![Home](https://github.com/Sangeetha-velmurugan/Smart-Parking-Management-System/blob/main/Screenshort/home%20page.png?raw=true)
 
@@ -26,7 +26,7 @@ A web-based parking system built with Python & Flask that automates slot allocat
 
 ![Bill](https://github.com/Sangeetha-velmurugan/Smart-Parking-Management-System/blob/main/Screenshort/bill%20details.png?raw=true)
 
-**Setup**
+## Setup
 
     git clone https://github.com/hariharanm30/Smart-Parking-Management-System.git
     cd Smart-Parking-Management-System
@@ -35,13 +35,14 @@ A web-based parking system built with Python & Flask that automates slot allocat
 
 Visit http://127.0.0.1:5000
 
+## Workflow
  · User parks a vehicle → system picks the lowest-numbered free slot via min-heap
 
  · Entry time is recorded
 
  · On exit → duration is calculated, bill is generated, slot is freed
 
-**Future Enhancements**
+## Future Enhancements
 
 Database integration  · User auth · QR code entry · Online payments · Admin dashboard
 
