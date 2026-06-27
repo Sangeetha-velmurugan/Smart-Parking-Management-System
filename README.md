@@ -22,10 +22,9 @@ A web-based parking system built with Python & Flask that automates slot allocat
 
 ![Parking Status](https://github.com/Sangeetha-velmurugan/Smart-Parking-Management-System/blob/main/Screenshort/parking%20status.png?raw=true)
 
-![Bill](https://github.com/Sangeetha-velmurugan/Smart-Parking-Management-System/blob/main/Screenshort/bill%20details.png?raw=true)
-
 ![Exit](https://github.com/Sangeetha-velmurugan/Smart-Parking-Management-System/blob/main/Screenshort/exit%20vehicle.png?raw=true)
 
+![Bill](https://github.com/Sangeetha-velmurugan/Smart-Parking-Management-System/blob/main/Screenshort/bill%20details.png?raw=true)
 
 **Setup**
 
