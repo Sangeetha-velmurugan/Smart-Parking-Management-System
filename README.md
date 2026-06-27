@@ -14,6 +14,22 @@ A web-based parking system built with Python & Flask that automates slot allocat
 
  · Real-time parking status view
 
+ **Screenshorts**
+ Home Page
+
+
+ Park Vehicle
+
+
+Parking Status
+
+
+Bill Details
+
+
+Exit Vehicle
+
+
 **Setup**
 
     git clone https://github.com/hariharanm30/Smart-Parking-Management-System.git
