@@ -2,6 +2,7 @@
 
 A web-based parking system built with Python & Flask that automates slot allocation, tracks vehicle entry/exit, and generates bills automaticall
 
+**Live Demo** https://smart-parking-management-system-bhn6.onrender.com
 
 **Features**
 
